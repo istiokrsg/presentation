@@ -5,4 +5,4 @@
 * https://corneliu.cl/docs/istio-mesh-for-microservices.pdf
 
 ### Presentation file
-* 2019-04-09 [1,2,3ch](./1stBook/Istio_Introduce.pdf)
+* 2019-04-09 [1,2,3ch](./1stBook/Istio_Intro_TrafficCtrl_Resiliency.pdf)
