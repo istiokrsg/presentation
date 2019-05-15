@@ -19,3 +19,10 @@
     - [Traffic Shifting](2ndBook/Traffic%20Management/Traffic-Shiting.md)
     - [Circuit Breaking](2ndBook/Traffic%20Management/Circuit-Breaking.md)
     - [Mirroring](2ndBook/Traffic%20Management/Mirroring.md)
+
+* 2019-05-14 [Istio - The Packet's-Eye View - Matt Turner, Tetrate](https://youtu.be/zJnYuFsLHfY) Kubecon 영상 리뷰 - 이상근
+  - 참고 내용은 https://mt165.co.uk/speech/life-of-a-packet-istio-cloud-native/ 있음
+
+* 2019-05-21 5월 21일 - 강승형님 추가발표 + (policy) 김바우님
+
+* 2019-05-28 5월 28일 - telemetry 문형권님 
