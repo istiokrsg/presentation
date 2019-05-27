@@ -20,9 +20,15 @@
     - [Circuit Breaking](2ndBook/Traffic%20Management/Circuit-Breaking.md)
     - [Mirroring](2ndBook/Traffic%20Management/Mirroring.md)
 
-* 2019-05-14 [Istio - The Packet's-Eye View - Matt Turner, Tetrate](https://youtu.be/zJnYuFsLHfY) Kubecon 영상 리뷰 - 이상근
-  - 참고 내용은 https://mt165.co.uk/speech/life-of-a-packet-istio-cloud-native/ 있음
+## 3차 스터디
 
-* 2019-05-21 5월 21일 - 강승형님 추가발표 + (policy) 김바우님
+* 2019-05-14 [Kubecon 영상 리뷰 - 이상근](etc/SPEECH_life-of-a-packet-istio-cloud-native.md)
+  - Life Of A Packet Istio Cloud Native
 
-* 2019-05-28 5월 28일 - telemetry 문형권님 
+## 4차 스터디
+
+* 2019-05-28 5월 28일 - 강승형님 추가발표 + (policy) 김바우님
+
+* 2019-06-04 6월 04일 - telemetry 문형권님 
+
+* 2019-06-11 6월 11일 - security 하승완님
