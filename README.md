@@ -6,6 +6,7 @@
 * 2019-04-09 ~ 2019-04-16 [1,2,3,4장](./1stBook/Istio_Intro_TrafficCtrl_Resiliency.pdf) 김잠제, 김병민
   - 실습을 위한 kubernetes cluster 필요
 * 2019-04-24 [5,6,7장](./1stBook/Istio_ChaosTesting_Observability_Security_More.pdf) 윤평호
+  - [5,6,7장](./1stBook/istio567.md)
 
 ## 2차 스터디: [공식 Istio 문서](https://istio.io/)
 
@@ -29,6 +30,8 @@
 
 * 2019-05-28 5월 28일 - 강승형님 추가발표 + (policy) 김바우님
 
-* 2019-06-04 6월 04일 - telemetry 문형권님 
+* 2019-06-04 6월 04일, 11일 - telemetry 문형권님
+  - 
 
-* 2019-06-11 6월 11일 - security 하승완님
+* 2019-06-11 6월 18일 - security 하승완님
+  - [Security](2ndBook/Security/Security_kr.md)
