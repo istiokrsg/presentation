@@ -34,3 +34,6 @@
 
 * 2019-06-11 6월 18일 - security 하승완님
   - [Security](2ndBook/Security/Security_kr.md)
+
+* 2019-06-25 6월 25일 - policy 윤평호
+  - [Policy](2ndBook/Policies/Policies.md)
